@@ -1,0 +1,4 @@
+regex_practice.txt:0
+lab2_scripts.sh:0
+practice.sh:0
+regex_practice.txt:0
